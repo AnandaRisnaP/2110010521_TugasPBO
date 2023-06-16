@@ -16,7 +16,7 @@ public class frameUtama extends javax.swing.JFrame {
     public frameUtama() {
         initComponents();
         
-        this.setLocation(null);
+        this.setLocationRelativeTo(null);
     }
 
     /**
